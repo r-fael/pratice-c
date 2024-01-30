@@ -1,2 +1,2 @@
 # pratice-c
-my c programs to pratice
+Part of my daily plan for studying C.
